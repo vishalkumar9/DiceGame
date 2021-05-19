@@ -7,6 +7,6 @@
        If you wish to continue rolling the dice you can but if dice display number 1 on screen your current score become NULL, and not add to your final score
        and your credits get decreased by one. And next player get a chance to roll the dice.
     3>If you press the "HOLD" button then your current score is add to your final score and next player get a chance to roll the dice.
-    4>If credits of any player become zero then next player can roll the dice till his credits!=0.
+    4>If credits of any player become zero then next player can roll the dice till his credits become zero.
     5>Result will display when credits of both the player is zero. just click "ROLL DICE" for once again.
     6>Click "NEW GAME" for new Match.
